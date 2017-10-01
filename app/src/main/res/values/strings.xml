@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Delaunay-Demo</string>
+    <string name="reset_button">Reset</string>
+</resources>
